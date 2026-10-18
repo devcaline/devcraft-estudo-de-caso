@@ -143,6 +143,7 @@ e plano, com a estimativa de preço e o cupom de desconto.
 | **Front-end** | Next.js 15 (App Router), React 19 e CSS próprio, sem frameworks |
 | **Integrações** | Google Sheets (Apps Script) e Resend |
 | **Hospedagem** | Vercel, com domínio próprio |
+| **Site** | [devcraft.dev.br](https://devcraft.dev.br/) |
 | **Código** | repositório privado |
 
 ---
